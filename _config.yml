@@ -22,6 +22,7 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-toc
 
 # Custom vars
 version:          0.0.1
