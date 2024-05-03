@@ -1,15 +1,15 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+title:            AI in Production
+tagline:          'KI 2024 Workshop - AI in Production'
+description:      'An info page for the Workshop held at <a href="https://www.informatik.uni-wuerzburg.de/ki24/" target="_blank">KI 2024 - 47th German Conference on Artificial Intelligence</a>. Hosted by <a href="www.htw-dresden.de" target="_blank">@HTWD</a>.'
+url:              https://krockema.github.io/AIP-2024/
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Martin Krockert'
+  url:            https://github.com/Krockema/
 
 # Gems
 plugins:
@@ -17,4 +17,4 @@ plugins:
   - jekyll-gist
 
 # Custom vars
-version:          3.0.0
+version:          0.0.1
