@@ -30,6 +30,13 @@
  *
  * Update the foundational and global aspects of the page.
  */
+ .logo {
+    position: fixed;
+    top: 0;
+    left: 10px;
+    width: 100px;
+ }
+
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
