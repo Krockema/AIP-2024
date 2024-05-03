@@ -2,7 +2,7 @@
 title:            AI in Production
 tagline:          'KI 2024 Workshop - AI in Production'
 description:      'An info page for the Workshop held at <a href="https://www.informatik.uni-wuerzburg.de/ki24/" target="_blank">KI 2024 - 47th German Conference on Artificial Intelligence</a>. Hosted by <a href="www.htw-dresden.de" target="_blank">@HTWD</a>.'
-url:              https://krockema.github.io/AIP-2024/
+url:              https://krockema.github.io/AIP-2024
 baseurl:          ''
 paginate:         1
 permalink:       pretty
@@ -12,7 +12,7 @@ permalink:       pretty
 author:
   name:           'Martin Krockert'
   email:          martin.krockert@htw-dresden.de
-  url:            https://github.com/Krockema/
+  url:            https://github.com/Krockema
 
 # Gems
 plugins:
