@@ -39,7 +39,7 @@ The workshop is planned to be  a single-track \textbf{one-day} event. It compris
 | Time         | Content         |
 | :----------- | :--------------: |
 | 08:45 to 09:00 | Welcome |
-| 09:00 to 09:45 | % Dirk Reichelt - Keynote |
+| 09:00 to 09:45 | Dirk Reichelt - Keynote |
 | 09:45 to 10:00 | Coffee Break I |
 | 10:00 to 12:00 | Technical talks I |
 | 12:00 to 13:30 | Lunch Break |
