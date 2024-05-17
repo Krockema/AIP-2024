@@ -29,8 +29,10 @@ Topics of interest include, but are not limited to applications of AI in product
 - July, 7: application and demo paper submission
 - July, 15: notification of acceptance
 - September, 23 or 24: workshop (1 day)
+- The review process is double blind
 
-We will accept three kinds of papers. Full Paper with 10 Pages, Short Paper with 5 Pages, and Demo paper with 4 Pages, including references. All accepted papers should be written in Springer LNCS Style and will be issued as Proceedings or special issue. All papers have to be submitted by easychair. (link is comming soon)
+
+We will accept three kinds of papers. Full Paper with 10 Pages, Short Paper with 5 Pages, and Demo paper with 4 Pages, including references. All accepted papers should be written in Springer LNCS Style and will be issued as Proceedings or special issue. All papers have to be submitted by easychair [link](https://easychair.org/conferences/?conf=ki2024).
 
 ### Further Details
 
