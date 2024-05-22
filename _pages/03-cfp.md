@@ -42,7 +42,7 @@ We welcome three types of contributions:
 - *Short Paper:* Up to 5 pages
 - *Demo Paper:* Up to 4 pages
  
-All submissions must include references and adhere to the Springer LNCS style. Accepted papers will be published in the workshop proceedings as issue in [Proceedings of Machine Learning Research] (https://proceedings.mlr.press/)
+All submissions must include references and adhere to the Springer LNCS style. Accepted papers will be published in the workshop proceedings as issue in [Proceedings of Machine Learning Research](https://proceedings.mlr.press/)
  
 ### Submission Platform:
 Please submit your papers through [EasyChair](https://easychair.org/conferences/?conf=ki2024).
