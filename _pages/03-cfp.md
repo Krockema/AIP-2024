@@ -3,7 +3,7 @@ layout: page
 title: Call for Papers
 ---
 
-# Call for Papers: AI in Production Workshop
+## AI in Production Workshop
  
 We are excited to announce the upcoming workshop on "AI in Production," aimed at fostering collaboration and knowledge exchange between the realms of artificial intelligence and production. This workshop is designed for both researchers and practitioners who are keen on exploring and applying AI techniques within the production domain.
  
