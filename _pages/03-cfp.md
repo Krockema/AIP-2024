@@ -45,7 +45,7 @@ We welcome three types of contributions:
 All submissions must include references and adhere to the Springer LNCS style. Accepted papers will be published in the workshop proceedings as issue in [Proceedings of Machine Learning Research] (https://proceedings.mlr.press/)
  
 ### Submission Platform:
-Please submit your papers through EasyChair. https://easychair.org/conferences/?conf=ki2024
+Please submit your papers through [EasyChair](https://easychair.org/conferences/?conf=ki2024).
  
 Join us for an engaging and insightful day of discussions that will shape the future of AI in production. We look forward to your contributions and to seeing you at the workshop!
  
