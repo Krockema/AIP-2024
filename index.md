@@ -4,7 +4,7 @@ title: Workshop - AI in Production
 ---
 
 # Workshop - AI in Production 
-### An Workshop held at [KI 2024 - 47th German Conference on Artificial Intelligence](https://www.informatik.uni-wuerzburg.de/ki24/) in Würzburg. Hosted by @HTWD.
+### Workshop held at [KI 2024 - 47th German Conference on Artificial Intelligence](https://www.informatik.uni-wuerzburg.de/ki24/) in Würzburg. Hosted by @HTWD.
 
 Our workshop aims to bring together researchers and practitioners from the fields of AI and/or production investigating, developing, or exploring AI techniques in production. We aim to provide a platform for the exchange of ideas and experiences under the general topic of 'AI in Production', not specializing in certain fields of production nor AI but explicitly including production planning, control and optimization. Ideally, our workshop will enable us to standardize approaches for supporting production applying AI or to transfer these approaches from one area of application in production to another. Thus, the Workshop is not only intended for experts in artificial intelligence (in production), but explicitly also for professionals from production.
 
