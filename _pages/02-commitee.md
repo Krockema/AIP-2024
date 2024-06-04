@@ -9,6 +9,7 @@ title: Tentative program commitee
 * Nick Hartmann (Fraunhofer EAS/IIS, Dresden)
 * Christoph Wehner (University of Bamberg)
 * Lukas Bahr (TU Munich / Fraunhofer IGCV)
+* Philipp Kosel (BMW Group)
 * Dominik Pietsch (Volkswagen AG / TU Dresden)
 * Dr. Stephan Scheele (University of Bamberg / Fraunhofer IIS)
 * Judith Knoblach (University of Bamberg)
