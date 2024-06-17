@@ -29,7 +29,7 @@ Topics of interest include, but are not limited to applications of AI in product
 - June, 23: paper submission deadline
 - July, 7: application and demo paper submission
 - July, 15: notification of acceptance
-- September, 23 or 24: workshop (1 day)
+- September, 23: Workshop (1 day)
 - The review process is double blind
 
 
