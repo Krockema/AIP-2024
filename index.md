@@ -6,7 +6,7 @@ title: Workshop - AI in Production
 # Workshop - AI in Production 
 ### Workshop held at [KI 2024 - 47th German Conference on Artificial Intelligence](https://www.informatik.uni-wuerzburg.de/ki24/) in Würzburg. Hosted by @HTWD.
 
-### EXTENDED DEADLINE to 15.08.24!
+### EXTENDED DEADLINE to 29.07.2024!
 
 Our workshop aims to bring together researchers and practitioners from the fields of AI and/or production investigating, developing, or exploring AI techniques in production. We aim to provide a platform for the exchange of ideas and experiences under the general topic of 'AI in Production', not specializing in certain fields of production nor AI but explicitly including production planning, control and optimization. Ideally, our workshop will enable us to standardize approaches for supporting production applying AI or to transfer these approaches from one area of application in production to another. Thus, the Workshop is not only intended for experts in artificial intelligence (in production), but explicitly also for professionals from production.
 
@@ -28,9 +28,9 @@ Topics of interest include, but are not limited to applications of AI in product
 
 ### CFP Contributions: Important Dates
 
-- **Extended August, 15** ! : paper submission deadline
-- August, 15: application and demo paper submission
-- August, 18: notification of acceptance
+- **Extended July, 15** ! : paper submission deadline
+- July, 29: application and demo paper submission
+- August, 15: notification of acceptance
 - September, 23: Workshop (1 day)
 - The review process is double blind
 
