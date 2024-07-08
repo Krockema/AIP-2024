@@ -30,10 +30,11 @@ We invite submissions on a wide range of topics, including but not limited to:
 - Knowledge Graphs in Manufacturing
  
 ### Important Dates:
-- *Paper Submission Deadline:* June 23
-- *Application and Demo Paper Submission:* July 7
-- *Notification of Acceptance:* July 15
-- *Workshop Date:* September 23 or 24 (1 day event)
+- **Extended July, 15** ! : paper submission deadline
+- July, 29: application and demo paper submission
+- August, 15: notification of acceptance
+- September, 23: Workshop (1 day)
+- The review process is double blind
  
 ### Submission Guidelines:
 We welcome three types of contributions:
@@ -42,7 +43,7 @@ We welcome three types of contributions:
 - *Short Paper:* Up to 5 pages
 - *Demo Paper:* Up to 4 pages
  
-All submissions must include references and adhere to the Springer LNCS style. Accepted papers will be published in the workshop proceedings as issue in [Proceedings of Machine Learning Research](https://proceedings.mlr.press/)
+All submissions must include references and adhere to the Springer LNCS style. Accepted papers will be published in the workshop proceedings as special issue.
  
 ### Submission Platform:
 Please submit your papers through [EasyChair](https://easychair.org/conferences/?conf=ki2024).
