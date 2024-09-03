@@ -42,6 +42,6 @@ The workshop is planned to be a single-track **one-day** event. It comprises two
 | 14:00 to 14:45 | Keynote II | TBD | José Luiz Bittencourt |
 | 14:45 to 15:30 | Poster and Demo Session | Current Research | Moderated by Torsten Munkelt |
 | 15:30 to 16:00 | Coffee Break II |||
-| 16:00 to 16:30 | Presentation Talks #189 | Sensitivity Analysis of Predictive Quality Methods using generalized Polynomial Chaos | Lukas Bahr and Lucas Possner |
-| 16:30 to 17:00 | Presentation Talk #94 | Optical Neural Networks for Low-latency and Energy-efficient Applications in Production | Niklas Bahr, Jelle Dijkstra, Frank Brückerhoff-Plückelmann, Ivonne Bente, Daniel Wendland and Wolfram Pernice |
+| 16:00 to 16:30 | Presentation #189 | Sensitivity Analysis of Predictive Quality Methods using generalized Polynomial Chaos | Lukas Bahr and Lucas Possner |
+| 16:30 to 17:00 | Presentation #94 | Optical Neural Networks for Low-latency and Energy-efficient Applications in Production | Niklas Bahr, Jelle Dijkstra, Frank Brückerhoff-Plückelmann, Ivonne Bente, Daniel Wendland and Wolfram Pernice |
 | 17:00 to 18:00 | General Discussion | Networking and Summary | All |
