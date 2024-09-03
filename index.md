@@ -26,30 +26,24 @@ Topics of interest include, but are not limited to applications of AI in product
 - configuration management,
 - knowledge graphs in manufacturing
 
-### CFP Contributions: Important Dates
-
-- **Extended July, 15** ! : paper submission deadline
-- July, 29: application and demo paper submission
-- August, 15: notification of acceptance
-- September, 23: Workshop (1 day)
-- The review process is double blind
 
 
-We will accept three kinds of papers. Full Paper with 10 Pages, Short Paper with 5 Pages, and Demo paper with 4 Pages, including references. All accepted papers should be written in Springer LNCS Style and will be issued as Proceedings or special issue. All papers have to be submitted by easychair [link](https://easychair.org/conferences/?conf=ki2024).
-
-### Further Details
-
+### Time Table
 The workshop is planned to be  a single-track \textbf{one-day} event. It comprises two invited talks, approximately eight technical talks and the according discussions (of current work based on paper presetations), one poster and demo session, and one general discussion.
 
-| Time         | Content         |
-| :----------- | :--------------: |
-| 08:45 to 09:00 | Welcome |
-| 09:00 to 09:45 | Dirk Reichelt - Keynote |
-| 09:45 to 10:00 | Coffee Break I |
-| 10:00 to 12:00 | Technical talks I |
-| 12:00 to 13:30 | Lunch Break |
-| 13:30 to 14:15 | José Luiz Bittencourt - Keynote II |
-| 14:15 to 15:15 | Poster and Demo Session |
-| 15:15 to 15:30 | Coffee Break II |
-| 15:30 to 17:00 | Technical Talks II |
-| 17:00 to 17:30 | General Discussion |
+| Time         | Content         | Topic  | Presenter |
+| :-----------: | :--------------: | :------------- | :------------- |
+| 09:00 to 09:45 | Welcome by the Orga-Team | AI in roduction | Martin Krockert |
+| 09:15 to 10:00 | Keynote | TBD | Dirk Reichel |
+| 10:30 to 10:30 | Technical talks I | Charging Strategies for Automated Guided Vehicles Using Supervised Learning | Mustafa Jelibaghu, Michael Eley, Oliver Rose, Alexander |
+| 10:30 to 11:00 | Coffee Break I  | ||
+| 11:00 to 11:30 | Technical talks II | Perception of Biases in Machine Learning in Production Research - A Structured Literature Review Dissecting Bias Categories | Gesa Götte, Oliver Antons, Andreas Herzog and Julia Arlinghaus |
+| 11:30 to 12:00 | Technical talks II | Flexible Data Architecture for Enabling AI Applications in Production Environments | Jossy Milagros Grützmann, Franziska Rudolph, Martin Boesler and Ken Wenzel |
+| 12:00 to 12:30 | Technical talks II | Supporting machine operators in paper production using machine learning based state estimation and user assistance system | Moritz Schroth, Felix Hake, Alexander Becher, Lukas Oehm and Peter Burggräf |
+| 12:30 to 14:00 | Lunch Break |||
+| 14:00 to 14:45 | Keynote II | TBD | José Luiz Bittencourt |
+| 14:45 to 15:30 | Poster and Demo Session | Current Research by HTW Dresden | Marvin Matthes, Torsten Munkelt |
+| 15:30 to 16:00 | Coffee Break II |||
+| 16:00 to 16:30 | Technical Talks III | Sensitivity Analysis of Predictive Quality Methods using generalized Polynomial Chaos | Lukas Bahr and Lucas Possner |
+| 16:30 to 17:00 | Technical Talks III | Optical Neural Networks for Low-latency and Energy-efficient Applications in Production | Niklas Bahr, Jelle Dijkstra, Frank Brückerhoff-Plückelmann, Ivonne Bente, Daniel Wendland and Wolfram Pernice |
+| 16:30 to 17:00 | General Discussion | Networking and Summary | All |
