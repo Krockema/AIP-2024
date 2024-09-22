@@ -32,7 +32,7 @@ The workshop is planned to be a single-track **one-day** event. It comprises two
 | Time         | Content         | Topic  | Presenter |
 | :-----------: | :--------------: | :------------- | :------------- |
 | 09:00 to 09:15 | Welcome by the Orga-Team | AI in Production | Martin Krockert |
-| 09:15 to 10:00 | Keynote | TBD | Dirk Reichelt |
+| 09:15 to 10:00 | Keynote | AI for the Fab of the Future - Opportunities  and Challenges | Dirk Reichelt |
 | 10:00 to 10:30 | Presentation #89 | Charging Strategies for Automated Guided Vehicles Using Supervised Learning | Mustafa Jelibaghu, Michael Eley, Oliver Rose, Alexander |
 | 10:30 to 11:00 | Coffee Break I  | ||
 | 11:00 to 11:30 | Presentation #106 | Perception of Biases in Machine Learning in Production Research - A Structured Literature Review Dissecting Bias Categories | Gesa Götte, Oliver Antons, Andreas Herzog and Julia Arlinghaus |
