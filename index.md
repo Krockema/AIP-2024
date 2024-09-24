@@ -39,7 +39,7 @@ The workshop is planned to be a single-track **one-day** event. It comprises two
 | 11:30 to 12:00 | Presentation #98 | Flexible Data Architecture for Enabling AI Applications in Production Environments | Jossy Milagros Grützmann, Franziska Rudolph, Martin Boesler and Ken Wenzel |
 | 12:00 to 12:30 | Presentation #180 | Supporting machine operators in paper production using machine learning based state estimation and user assistance system | Moritz Schroth, Felix Hake, Alexander Becher, Lukas Oehm and Peter Burggräf |
 | 12:30 to 14:00 | Lunch Break |||
-| 14:00 to 14:45 | Keynote II | TBD | José Luiz Bittencourt |
+| 14:00 to 14:45 | Keynote II | Challanges of Doing Data Science in the Production of Complex Products | José Luiz Bittencourt |
 | 14:45 to 15:30 | Poster and Demo Session | Current Research | Moderated by Torsten Munkelt |
 | 15:30 to 16:00 | Coffee Break II |||
 | 16:00 to 16:30 | Presentation #189 | Sensitivity Analysis of Predictive Quality Methods using generalized Polynomial Chaos | Lukas Bahr and Lucas Possner |
