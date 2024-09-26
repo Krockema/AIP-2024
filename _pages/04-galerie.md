@@ -19,6 +19,6 @@ Thank you for having me as your Organizer and Moderator of this awsome Workshop.
 
 <div class="row">
   {% for image in page.images %}
-      <div class="col-6"><img src="{{ image.image_path }}" class="shadow-1-strong rounded" style="max-height: 300px;" alt="{{ image.title}}"/></div>
+      <div class="col-6 position-relative"><img src="{{ image.image_path }}" class="position-absolute top-50 start-50 translate-middle shadow-1-strong rounded" style="max-height: 400px;" alt="{{ image.title}}"/></div>
   {% endfor %}
 </div>
