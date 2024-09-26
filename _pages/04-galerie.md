@@ -10,14 +10,14 @@ images:
     title: Full house!
   - image_path: /AIP-2024/assets/img/IMG_7307.JPG
     title: Julius-Maximilians-Universität Würzburg!    
-  - image_path: /AIP-2024/assets/img/IMG_7307.JPG
-    title: Julius-Maximilians-Universität Würzburg!    
 ---
 
 <h1>Workshop Impressions</h1>
 
-<ul class="photo-gallery">
+Thank you for having me as your Organizer and Moderator of this awsome Workshop.
+
+<div class="row">
   {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" class="w-500 shadow-1-strong rounded" alt="{{ image.title}}"/></li>
+      <div class="col-6"><img src="{{ image.image_path }}" class="shadow-1-strong rounded" alt="{{ image.title}}"/></div>
   {% endfor %}
-</ul>
+</div>
