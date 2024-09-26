@@ -13,9 +13,9 @@ defaults:
 
 # About and contact
 author:
-  name:           'Martin Krockert'
-  email:          martin.krockert@htw-dresden.de
-  url:            https://github.com/Krockema
+  name: 'Martin Krockert'
+  email: martin.krockert@htw-dresden.de
+  url:   https://github.com/Krockema
 
 toc:
   min_level: 1
@@ -35,7 +35,7 @@ plugins:
   - jekyll-toc
 
 # Custom vars
-version:          0.0.1
+version:          0.0.2
 
 include:
  - _pages
