@@ -14,6 +14,8 @@ images:
     title: Julius-Maximilians-Universität Würzburg!    
 ---
 
+<h1>Workshop Impressions</h1>
+
 <ul class="photo-gallery">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" class="w-500 shadow-1-strong rounded" alt="{{ image.title}}"/></li>
